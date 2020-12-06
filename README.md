@@ -1,16 +1,26 @@
 # Third-Eye-JAVA
 
 SOFTWARE REQUIREMENTS:
+
 This application is been designed to run as a desktop application with part of the data
 saved on server for security purpose.
+
 Client/ Node Machine:
+
 • Operating System: Windows 7 and above
+
 • Framework: Java JDK
+
 • Cloud: Amazon Web Services CLI
+
 Server Machine:
+
 • Operating System: Windows Desktop OS or Windows Server Edition
+
 • Framework: Java JDK
+
 • Cloud: Amazon Web Services CLI
+
 • Database: SQLite
 
 HARDWARE REQUIREMENTS:
