@@ -8,16 +8,16 @@ saved on server for security purpose.
 
 Client/ Node Machine:
 
-• Operating System: Windows 7 and above
-• Framework: Java JDK
-• Cloud: Amazon Web Services CLI
+* Operating System: Windows 7 and above
+* Framework: Java JDK
+* Cloud: Amazon Web Services CLI
 
 Server Machine:
 
-• Operating System: Windows Desktop OS or Windows Server Edition
-• Framework: Java JDK
+* Operating System: Windows Desktop OS or Windows Server Edition
+* Framework: Java JDK
 * Cloud: Amazon Web Services CLI
-• Database: SQLite
+* Database: SQLite
 
 HARDWARE REQUIREMENTS:
 
@@ -26,11 +26,12 @@ hardware.
 
 Client/ Node Machine:
 
-• Processor: Intel Dual Core CPU and above
-• RAM: 1 GB and above
-• Hard Disk: 250GB and above
+* Processor: Intel Dual Core CPU and above
+* RAM: 1 GB and above
+* Hard Disk: 250GB and above
+
 Server Machine:
 
-• Processor: Intel Core i3 CPU and above
-• RAM: 4 GB and above
-• Hard Disk: 1 TB and above
+* Processor: Intel Core i3 CPU and above
+* RAM: 4 GB and above
+* Hard Disk: 1 TB and above
