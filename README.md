@@ -9,7 +9,6 @@ Client/ Node Machine:
 
 • Operating System: Windows 7 and above
 • Framework: Java JDK
-
 • Cloud: Amazon Web Services CLI
 
 Server Machine:
