@@ -1,4 +1,5 @@
 # Third-Eye-JAVA
+Forensic Face Sketch Recognition using Computer Vision and Deep Learning
 
 SOFTWARE REQUIREMENTS:
 
@@ -14,9 +15,7 @@ Client/ Node Machine:
 Server Machine:
 
 • Operating System: Windows Desktop OS or Windows Server Edition
-
 • Framework: Java JDK
-
 • Cloud: Amazon Web Services CLI
 
 • Database: SQLite
